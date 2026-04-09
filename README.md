@@ -2,6 +2,8 @@
 ## Tesla Stock & Revenue
 
 ![Tesla Graph](tesla-stock-revenue.png)
+### GameStop Stock & Revenue
+![GameStop Graph](gme-stock-revenue.png)
 Extracting stock data using APIs and web scraping, followed by data cleaning and visualization with Python.
 # Stock Data Extraction & Visualization
 
